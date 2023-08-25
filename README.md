@@ -7,7 +7,9 @@ Welcome to the Creative Code Examples Repository! This repository contains a col
 - [Introduction](#introduction)
 - [Contents](#contents)
   - [Referencias](#Referencias)
+    -[Data Visualization](#data-visualization) 
   - [Demos](#demos)
+    -[NoteBooks](#notebooks)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -20,6 +22,32 @@ Creative coding is a fascinating way to explore the intersection of programming 
 ## Contents
 
 The repository contains a diverse range of creative code examples implemented in both JavaScript and Python. These examples cover various techniques, including animation, generative art, interactive visualizations, and more. Each example is contained within its own folder and comes with a README explaining its purpose and usage.
+
+* https://saiabhishek0309.medium.com/art-with-python-456156189f16
+* https://medium.com/dare-to-be-better/want-to-try-creative-coding-start-here-35bb88c5fb04
+
+## Data visualization
+
+* https://codepen.io/kvyb/full/dRoXpp
+* https://codepen.io/JustinChill/full/QyRJaY
+* https://codepen.io/krautgti/full/oNdYVqw
+* https://codepen.io/pyrografix/details/rywwyO
+* https://codepen.io/borntofrappe/full/WYMMNN
+* https://codepen.io/sdras/details/dXoLEJ
+
+## Demos
+
+## Notebooks
+
+* https://colab.research.google.com/drive/1ofUTChheSmTdco6iPU3W3UPa75wk5BjT?usp=sharing
+* https://colab.research.google.com/drive/1U3s-qQlYcRvMidIP-0dcM4FyNrtJkJgC?usp=sharing
+
+## Music
+
+## Art Generation
+
+* https://codepen.io/malvabombom/full/zYjRrLa
+* https://codepen.io/malvabombom/full/GRGJBXX
 
 ## Getting Started
 
